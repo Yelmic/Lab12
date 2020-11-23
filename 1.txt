@@ -1,0 +1,843 @@
+﻿Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Phone:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - ToString
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Phone:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - ToString
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Phone:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - ToString
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Phone:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - ToString
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Phone:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - ToString
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Phone:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - ToString
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Phone:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - ToString
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Phone:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - ToString
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Phone:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - ToString
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
+Все содержимое класса lab12.Film:
+Method - get_Name
+Method - set_Name
+Method - get_Year
+Method - set_Year
+Method - Watch
+Method - ToString
+Method - Show
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Constructor - .ctor
+Property - Name
+Property - Year
+Field - name
+Field - year
+Field - limit
+Field - agelimit
+Field - time
+
+Все содержимое класса lab12.Phone:
+Method - get_Surname
+Method - set_Surname
+Method - get_Name
+Method - set_Name
+Method - get_Adress
+Method - set_Adress
+Method - ToString
+Method - Equals
+Method - GetHashCode
+Method - GetType
+Constructor - .ctor
+Property - Surname
+Property - Name
+Property - Adress
+
