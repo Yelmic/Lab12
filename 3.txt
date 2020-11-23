@@ -1,0 +1,356 @@
+﻿Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Phone:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Phone:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Phone:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Phone:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Phone:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Phone:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Phone:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Phone:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Phone:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
+Вся информация о полях и свойствах lab12.Film:
+Type - Field. Name - name
+Type - Field. Name - year
+Type - Field. Name - limit
+Type - Field. Name - agelimit
+Type - Field. Name - time
+Type - Property. Name - Name
+Type - Property. Name - Year
+
+Вся информация о полях и свойствах lab12.Phone:
+Type - Property. Name - Surname
+Type - Property. Name - Name
+Type - Property. Name - Adress
+
